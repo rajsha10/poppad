@@ -1,0 +1,6 @@
+{
+  "network": "edu-chain-testnet",
+  "chainId": 656476,
+  "contractAddress": "0x534f2863B7Edf67749C54C37486E71E4095F710f",
+  "deploymentFee": "100000000000000000"
+}
